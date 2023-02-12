@@ -9,7 +9,7 @@ Our application features include:
   An easy-to-use post creation interface
   The ability to follow and interact with other users through likes, comments, and shares.
   
-  ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S1.png?raw=true "Login Page")
+  ![Alt text](/server/public/assets/S1.png?raw=true "Login Page")
   
   ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S2.png?raw=true "Home Page")
   
