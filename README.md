@@ -13,7 +13,7 @@ Our application features include:
 <img src="server/public/assets/S1.jpg">
 
 <h1>Register Page</h1>
-<img src="server/public/assets/S4.jpg">
+<img src="server/public/assets/S4.JPG">
 
 <h1>Home Page</h1>
 <img src="server/public/assets/S2.jpg">
