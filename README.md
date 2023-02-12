@@ -8,3 +8,9 @@ Our application features include:
   A search function to find new users and content
   An easy-to-use post creation interface
   The ability to follow and interact with other users through likes, comments, and shares.
+  
+  ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S1.png?raw=true "Login Page")
+  
+  ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S2.png?raw=true "Home Page")
+  
+  ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S3.png?raw=true "Profile Page")
