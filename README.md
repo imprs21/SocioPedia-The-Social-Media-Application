@@ -11,6 +11,6 @@ Our application features include:
   
   ![Alt text](/server/public/assets/S1.png?raw=true "Login Page")
   
-  ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S2.png?raw=true "Home Page")
+  ![Alt text](/SocioPedia-The-Social-Media-Application/server/public/assets/S2.png?raw=true "Home Page")
   
   ![Alt text](SocioPedia-The-Social-Media-Application/server/public/assets/S3.png?raw=true "Profile Page")
