@@ -11,3 +11,9 @@ Our application features include:
   
 <h1>Login Page</h1>
 <img src="server/public/assets/S1.png">
+
+<h1>Home Page</h1>
+<img src="server/public/assets/S2.png">
+
+<h1>Profile Page</h1>
+<img src="server/public/assets/S3.png">
