@@ -10,7 +10,7 @@ Our application features include:
   The ability to follow and interact with other users through likes, comments, and shares.
   
 <h1>Login Page</h1>
-<img src="server/public/assets/S1.png">
+<img src="server/public/assets/JK.jpg">
 
 <h1>Home Page</h1>
 <img src="server/public/assets/S2.png">
